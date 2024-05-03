@@ -1,0 +1,89 @@
+body{
+    background-color: white;
+    margin: 0;
+}
+#prenav{
+    padding: 1px;
+    background-color: rgb(225, 225, 12);
+
+}
+#navbar-one{
+    display: inline-flex;
+    padding-top: 20px;
+    padding-bottom: 12px;
+    
+}
+#navbar-two{
+    display: flex;
+    padding: 7px;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    
+
+}
+#link-nav-one{
+    padding-right: 30px;
+    padding-left: 39px;
+}
+li{
+    list-style-type: none;
+    padding-top: 11px;
+}
+a{
+    font-size: 20px;
+    padding-left: 25px;
+    text-decoration: none;
+    color: black;
+    padding-right: 16px;
+}
+#search-container{
+    width: 650px;
+    height: 45px;
+    border-radius: 20px;
+    font-size: 16px;
+    padding-left: 33px;
+}
+h2{
+    text-align: center;
+    font-size: 22px;
+}
+span{
+    font-size: 19px;
+}
+p{
+    font-size: 24px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+}
+#sect-one{
+    background-color:burlywood;
+    padding: 100px;
+    margin-left: 190px;
+    margin-right: 190px;
+    
+}
+#main-content{
+    background-color: whitesmoke;
+    height: 240px;
+    width: 450px;
+
+}
+#writeup{
+    font-size: 15px;
+    text-decoration: underline;
+    color: blueviolet;
+    padding-left: 3px;
+    text-align: justify;
+    margin: 0;
+
+}
+h1{
+    font-size:45px;   
+    margin: 0;
+    padding:14px;
+}
+h3{
+    padding-left: 14px;
+}
