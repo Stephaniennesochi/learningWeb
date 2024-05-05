@@ -30,8 +30,8 @@ li{
     padding-top: 11px;
 }
 a{
-    font-size: 20px;
-    padding-left: 25px;
+    font-size: 18px;
+    padding-left: 29px;
     text-decoration: none;
     color: black;
     padding-right: 16px;
@@ -50,7 +50,7 @@ h2{
 span{
     font-size: 19px;
 }
-p{
+#company-name{
     font-size: 24px;
     text-align: center;
     padding: 0;
@@ -60,14 +60,14 @@ p{
 #sect-one{
     background-color:burlywood;
     padding: 100px;
-    margin-left: 190px;
-    margin-right: 190px;
+    margin-left: 120px;
+    margin-right: 150px;
     
 }
 #main-content{
     background-color: whitesmoke;
     height: 240px;
-    width: 450px;
+    width: 470px;
 
 }
 #writeup{
@@ -86,4 +86,113 @@ h1{
 }
 h3{
     padding-left: 14px;
+}
+#content{
+    font-size: 35px;
+    text-align: justify;
+    margin-bottom: 0px;
+    position: relative;
+    top: 70px;
+}
+#content-sect{
+    font-size: 35px;
+    text-align: justify;
+    margin-bottom: 0px;
+    position: relative;
+    top: -18px;
+}
+#sect-two{
+    margin-left: 120px;
+    margin-right: 150px;
+}
+aside{
+    background-color: rgb(39, 36, 36);
+    margin-bottom: 54px;
+    
+}
+#text-aside{
+    color: white;
+    text-align: justify;
+    position: relative;
+    left: 47px;
+    top: 30px;
+}
+#btn-one{
+    position: relative;
+    left: 860px;
+    bottom: 24px;
+    height: 50px;
+    width: 180px;
+    background-color: white;
+    font-size: 16px;
+    margin-right: 7px;
+}
+#btn-two{
+    position: relative;
+    left: 860px;
+    bottom: 24px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(39, 36, 36);
+    color: white;
+    border: 1px solid white;
+    font-size: 16px;
+}
+#content-link{
+    text-decoration: underline;
+    color: blue;
+    position: relative;
+    bottom: -35px;
+    right: -1100px;
+    font-size: 22px;
+   
+}
+#course{
+    padding-top: 20px;
+    padding-left: 24px;
+    padding-bottom: 20px;
+    margin-bottom: 32px;
+    color: white;
+    border: 1px solid  lightgray;
+
+}
+#course:hover{
+    background-color: rgb(238, 232, 232);
+}
+#content-sub{
+    margin-top: 1px;
+    text-align: justify;
+    font-size: 26px;
+    letter-spacing: 0.4;
+    position: relative;
+    bottom: 0px;
+}
+img{
+    width: 500px;
+    height: 290px;
+}
+#course-writeup{
+    color: black;
+    float: right;
+    padding-right: 94px;
+}
+#course-writeups{
+    color: black;
+   float: right;
+   position: relative;
+   bottom: 254px;
+   padding-right: 184px ;
+}
+#course-writeupp{
+    color: black;
+    float: right;
+    position: relative;
+    bottom: 205px;
+    left: 340px;
+}
+#videos{
+    height: 420px;
+    width: 420px;
+    margin: 0;
+    padding: 0px;
 }
