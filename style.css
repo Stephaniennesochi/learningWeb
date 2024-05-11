@@ -196,3 +196,11 @@ img{
     margin: 0;
     padding: 0px;
 }
+#second-content{
+    margin-top: 1px;
+    text-align: justify;
+    font-size: 26px;
+    letter-spacing: 0.4;
+    position: relative;
+    bottom: 0px;
+}
