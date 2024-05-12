@@ -204,3 +204,29 @@ img{
     position: relative;
     bottom: 0px;
 }
+footer{
+    background-color: rgb(39, 36, 36);
+    color: white;
+}
+#footer-heading{
+    text-align: justify;
+    font-size: 27px;
+    padding-top: 16px;
+    padding-left: 17px;
+}
+#footer-name{
+    font-size: 27px;
+    color: brown;
+    padding-top: 30px;
+}
+#footer-link{
+    color: white;
+    font-size: 18px;
+    padding-right: 60px;
+    line-height: 1.6;
+}
+#copyright{
+    text-align: right;
+    padding-right: 29px;
+    padding-bottom: 15px;
+}
