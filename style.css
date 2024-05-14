@@ -104,10 +104,12 @@ h3{
 #sect-two{
     margin-left: 120px;
     margin-right: 150px;
+    margin-top: 0px;
 }
 aside{
     background-color: rgb(39, 36, 36);
     margin-bottom: 54px;
+    margin-top: 60px;
     
 }
 #text-aside{
@@ -210,9 +212,11 @@ footer{
 }
 #footer-heading{
     text-align: justify;
-    font-size: 27px;
+    font-size: 25px;
     padding-top: 16px;
     padding-left: 17px;
+    position: relative;
+    top: 24px;
 }
 #footer-name{
     font-size: 27px;
@@ -229,4 +233,22 @@ footer{
     text-align: right;
     padding-right: 29px;
     padding-bottom: 15px;
+}
+.footer-logos{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 70%;
+    bottom: 24px;
+    
+}
+#footer-top{
+    margin: 0;
+    padding: 0px;
+}
+#artwork{
+    float: right;
+    position: relative;
+    top:-105%;
+    left: 120%;
 }
